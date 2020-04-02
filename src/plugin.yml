@@ -1,0 +1,12 @@
+main: "com.p3ng00.aprilfools.AprilFools"
+name: "AprilFools"
+version: "1.0"
+author: "P3NG00"
+description: "April Fools Plugin"
+api-version: "1.15"
+load: "POSTWORLD"
+
+commands:
+  aprilfools:
+    description: "10% Chance of Creeper sounds after opening a chest"
+    usage: "/AprilFools [Enable/Disable]"
